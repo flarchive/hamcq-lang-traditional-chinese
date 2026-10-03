@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of hamcq/lang-traditional-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/lang-traditional-chinese) or the [upstream repository](https://github.com/HamCQ/lang-traditional-chinese).
 
-**0** versions archived · Latest: [`1.1`](https://github.com/flarchive/hamcq-lang-traditional-chinese/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`1.1`](https://github.com/flarchive/hamcq-lang-traditional-chinese/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-09-04 | `^1.0` | [Browse](https://github.com/flarchive/hamcq-lang-traditional-chinese/tree/archive/v1.0) |
+| `1.1` | 2023-11-23 | `^1.0` | [Browse](https://github.com/flarchive/hamcq-lang-traditional-chinese/tree/archive/v1.1) |
 
 Catalog entry: [packages/hamcq-lang-traditional-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-lang-traditional-chinese.json)
 
